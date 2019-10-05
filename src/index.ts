@@ -45,6 +45,8 @@ export const HTML_LANGUAGES: string[] = [
   'html',
   'HTML (EEx)',
   'HTML (Eex)',
+  'eelixir',
+  'elixir',
   'jade',
   'leaf',
   'markdown',
